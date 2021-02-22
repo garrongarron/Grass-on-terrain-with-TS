@@ -1,0 +1,5 @@
+node_modules
+creative
+npm-debug.log
+*.db
+/vscode
